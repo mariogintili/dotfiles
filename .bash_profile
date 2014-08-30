@@ -4,8 +4,6 @@
 
 export TESTING_MAKERS=working
 
-export MAILGUN_KEY=key-7wq76bhhkimulx77oitikmxqndtogzb3
-export MAILGUN_PUBLIC_KEY=pubkey-9lofs2slwiyvyh874lh3vzk8hdptg4o9
 
 # export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/sbin:/usr/sbin
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
