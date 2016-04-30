@@ -1,11 +1,5 @@
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
-# export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"
-
-export TESTING_MAKERS=working
-
-
-# export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/sbin:/usr/sbin
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
 echo "Hello Mario!🌝🌝🌝🌝🌝"
